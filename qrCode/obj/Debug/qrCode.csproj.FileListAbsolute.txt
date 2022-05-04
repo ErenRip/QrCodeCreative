@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\qrCode\qrCode\bin\Debug\qrCode.exe.config
+C:\Users\Asus\source\repos\qrCode\qrCode\bin\Debug\qrCode.exe
+C:\Users\Asus\source\repos\qrCode\qrCode\bin\Debug\qrCode.pdb
+C:\Users\Asus\source\repos\qrCode\qrCode\obj\Debug\qrCode.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\qrCode\qrCode\obj\Debug\qrCode.Form1.resources
+C:\Users\Asus\source\repos\qrCode\qrCode\obj\Debug\qrCode.Properties.Resources.resources
+C:\Users\Asus\source\repos\qrCode\qrCode\obj\Debug\qrCode.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\qrCode\qrCode\obj\Debug\qrCode.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\qrCode\qrCode\obj\Debug\qrCode.exe
+C:\Users\Asus\source\repos\qrCode\qrCode\obj\Debug\qrCode.pdb
+C:\Users\Asus\source\repos\qrCode\qrCode\bin\Debug\QRCoder.dll
+C:\Users\Asus\source\repos\qrCode\qrCode\obj\Debug\qrCode.csproj.CopyComplete
